@@ -6,7 +6,7 @@ Today, I am diving into the key programming languages used in data science: Pyth
 
 ---
 
-## **Resources for Day 3** 📚
+## **Resources for Day 4** 📚
 
 Here are some key resources that helped me learn today:
 - [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)  
